@@ -1,5 +1,3 @@
-# MVC Tutorial
+# MVC Framework PHP
 
-	- POST -> add , delete , edit, show
-	- PDO database -> CRUD
-	- Login system
+	Blank Framework
